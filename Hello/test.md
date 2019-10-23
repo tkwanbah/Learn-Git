@@ -10,6 +10,12 @@ Foo
 - Love Jones 
 - The Notebook 
 
+### Drew's Favorite Movies
+
+- The Lord of the Rings: The two towers
+- Amelie
+- Jurassic Park
+
 ### Patti's favorite movies
 
 - The Godfather 1, 2, 3
